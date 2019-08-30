@@ -1,2 +1,2 @@
 contenido original del fichero b
-contribucion de los dos alumnos
+contribucion de los dos alumnos pero el 2 cambia la linea
